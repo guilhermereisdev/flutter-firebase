@@ -17,4 +17,4 @@ Faz login de usuário e autentica com e-mail e senha. Salva, recupera e deleta d
 
 #### Screenshots
 
-![01](screenshots\01.png)![02](screenshots\02.png)![03](screenshots\03.png)
+![01](screenshots/01.png)![02](screenshots/02.png)![03](screenshots/03.png)
