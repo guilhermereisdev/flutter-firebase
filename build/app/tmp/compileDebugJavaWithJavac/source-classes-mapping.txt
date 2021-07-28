@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/guilhermereisapps/flutter_firebase/BuildConfig.java
+ com.guilhermereisapps.flutter_firebase.BuildConfig
+com/guilhermereisapps/flutter_firebase/MainActivity.java
+ com.guilhermereisapps.flutter_firebase.MainActivity
